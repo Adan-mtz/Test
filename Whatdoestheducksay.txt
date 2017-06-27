@@ -1,0 +1,3 @@
+gato = miau
+horse= teheee
+duck = ?
